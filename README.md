@@ -160,8 +160,6 @@ The application implements the standard BFS algorithm:
 
 ### Common Issues
 
-### Common Issues
-
 **Application won't start**
 - Make sure you're running on Windows
 - Try right-click on `BFS.lnk` → "Run as administrator"

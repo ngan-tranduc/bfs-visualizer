@@ -1,6 +1,8 @@
-# BFS Graph Visualization
+# BFS Graph Visualization  
 
-A C++ application that provides an interactive visualization of the Breadth-First Search (BFS) algorithm on graphs using the BGI (Borland Graphics Interface) graphics library.
+A C++ application that provides an interactive visualization of the Breadth-First Search (BFS) algorithm on graphs using the BGI (Borland Graphics Interface) graphics library.  
+
+**Completion date:** Dec 29, 2024  
 
 ## Features
 
@@ -36,7 +38,7 @@ The application features a clean interface with:
 ### Quick Start (Recommended)
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/bfs-graph-visualization.git
+   git clone https://github.com/ngan-tranduc/bfs-visualizer
    ```
 2. Navigate to the project folder
 3. **Double-click `BFS.lnk`** to run the application
